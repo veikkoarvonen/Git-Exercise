@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var mainString = "This is added in main branch"
+    var mainString = "This is added in side branch"
     
     override func viewDidLoad() {
         super.viewDidLoad()
